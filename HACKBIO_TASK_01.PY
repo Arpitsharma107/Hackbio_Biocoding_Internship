@@ -1,4 +1,4 @@
-"""
+"""        TASK 1 
 ##Use any data structure of your choice to organize the following information
 Your names
 Your slack username
@@ -18,6 +18,6 @@ choice_datastru = {
     "Discipline":"Bioinformatics",
     "Preferred Programming Language":"Python"
 }
-print(choice_datastru)
+print(choice_datastru) # Printing the entire dictionary
 Name= choice_datastru["Name"]
 print(Name)   # Accessing and printing a specific value (Name)

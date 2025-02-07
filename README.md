@@ -1,5 +1,5 @@
 
-# HackBio Biocoding Internship - Stage Zero Task  
+# HackBio Biocoding Internship - Stage Zero 
 
 ## 📖 Project Overview  
 This repository contains my submission for the **HackBio Biocoding Internship - Stage Zero Task**. The task requires organizing personal details using **any data structure** of choice and performing **basic data retrieval** using Python.  

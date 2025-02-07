@@ -19,26 +19,29 @@ The **chosen data structure** for this task is a **Python dictionary**, which pr
 ---
 
 ## 🛠 Implementation Details  
+### **Code Explanation**
 
-### **👨‍💻 Code Explanation**  
-🔍 What I Did in This Code
-1️⃣ Chose a Data Structure
-    I used a dictionary (choice_datastru), which allows storing key-value pairs.
-    Each piece of information was stored with a unique key (e.g., "Name" as a key and "Arpit Sharma" as its value).
-2️⃣ Stored the Data
-    Created a dictionary named choice_datastru containing:
-    "Name": My full name
-    "Slack Username": My Slack username
-    "Email": My email address
-    "Hobby": My hobbies
-    "Country": My country
-    "Discipline": My academic field
-    "Preferred Programming Language": My favorite programming language
-3️⃣ Printed the Entire Dictionary
-    Used print(choice_datastru) to display all stored information in the terminal.
-4️⃣ Accessed a Specific Value
-    Used choice_datastru["Name"] to extract and print my name separately.
+### 👨‍💻 What I Did in This Code
 
+#### 1️⃣ Chose a Data Structure  
+I used a dictionary (`choice_datastru`), which allows storing key-value pairs.  
+Each piece of information was stored with a unique key (e.g., `"Name"` as a key and `"Arpit Sharma"` as its value).
+
+#### 2️⃣ Stored the Data  
+Created a dictionary named `choice_datastru` containing:
+- `"Name"`: My full name
+- `"Slack Username"`: My Slack username
+- `"Email"`: My email address
+- `"Hobby"`: My hobbies
+- `"Country"`: My country
+- `"Discipline"`: My academic field
+- `"Preferred Programming Language"`: My favorite programming language
+
+#### 3️⃣ Printed the Entire Dictionary  
+Used `print(choice_datastru)` to display all stored information in the terminal.
+
+#### 4️⃣ Accessed a Specific Value  
+Used `choice_datastru["Name"]` to extract and print my name separately.
 ```python
 """
 ## Use any data structure of your choice to organize the following information:

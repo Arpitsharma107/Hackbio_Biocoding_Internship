@@ -100,21 +100,6 @@ print("Hamming Distance:", distance)
 ```
 
 
-## 🔧 Running the Code
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your_username/HackBio-Stage1.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd HackBio-Stage1
-   ```
-3. Run the script:
-   ```sh
-   python HACKBIO_STAGE_1.py
-   ```
-
 ## 🌟 Sample Output
 
 ```
